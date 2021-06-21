@@ -1,0 +1,6 @@
+module Pods_Base_Code_React {
+  umbrella header "Pods-Base_Code_React-umbrella.h"
+
+  export *
+  module * { export * }
+}
